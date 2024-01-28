@@ -1,0 +1,14 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+https://developer.mozilla.org/en-US/docs/Glossary/Binding
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise#thenables
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/name
+https://guides.emberjs.com/release/routing/query-params/#:~:text=Query%20params%20allow%20for%20additional,the%20left%20of%20the%20%3F%20).
+https://developer.mozilla.org/en-US/docs/Web/API/Element/append
+https://kinsta.com/knowledgebase/javascript-http-request/
+https://reintech.io/blog/working-with-onload-event-handler
+https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
+https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round
+https://www.geeksforgeeks.org/javascript-anonymous-functions/
